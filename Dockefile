@@ -1,2 +1,0 @@
-FROM hshar/webapp
-ADD ./Capstone /var/www/Capstone
